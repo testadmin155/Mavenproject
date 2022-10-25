@@ -1,0 +1,17 @@
+package MavenProject.FirstScript;
+
+public class PersonalLoan {
+	
+	public void logintoBranchforPersonalLoan()
+	{
+		System.out.println("logintoBranchforCPersonalLoan");
+	}
+	
+	public void logintoAPPforPersonalLoan()
+	{
+		System.out.println("logintoAPPforPersonalLoan");
+	}
+	
+	
+
+}

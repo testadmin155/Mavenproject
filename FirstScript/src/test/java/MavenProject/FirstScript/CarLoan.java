@@ -7,13 +7,13 @@ public class CarLoan {
 	@Test(groups= {"Sanity"})
 	public void logintoBranchforCarLoan()
 	{
-		System.out.println("logintoBranchforCarLoan");
+		System.out.println("logintoBranchforCarLoan test");
 	}
 	
 	@Test
 	public void logintoAPPforCarLoan()
 	{
-		System.out.println("logintoAPPforCarLoan");
+		System.out.println("logintoAPPforCarLoan test");
 	}
 
 }
